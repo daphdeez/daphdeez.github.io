@@ -1,21 +1,21 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://daphne.netlify.com" resolutions="1x" timestamp="1527285669170">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://daphydeez.netlify.com" resolutions="1x" timestamp="1527292980947">
   <folder name="css">
     <file name="site_global.css" crc="3787883095"/>
     <file name="master_a--main-pages.css" crc="4118117993" ref="index"/>
-    <file name="master_b--sub-pages.css" crc="4084979256" ref="unique-things-to-do:budget-tips---tricks:photography:my-journey"/>
-    <file name="living-in-mexico.css" crc="295242888" ref="living-in-mexico"/>
-    <file name="mexico-city.css" crc="295242888" ref="mexico-city"/>
-    <file name="the-hidden-bar-experience.css" crc="295242888" ref="the-hidden-bar-experience"/>
-    <file name="unique-things-to-do.css" crc="515569352" ref="unique-things-to-do"/>
-    <file name="budget-tips---tricks.css" crc="3927079064" ref="budget-tips---tricks"/>
-    <file name="photography.css" crc="515569352" ref="photography"/>
+    <file name="master_b--sub-pages.css" crc="4084979256" ref="my-journey:photography:budget-tips---tricks:unique-things-to-do"/>
     <file name="guadalajara.css" crc="295242888" ref="guadalajara"/>
-    <file name="budapest.css" crc="295242888" ref="budapest"/>
-    <file name="index.css" crc="425910476" ref="index"/>
-    <file name="berlin.css" crc="295242888" ref="berlin"/>
     <file name="my-journey.css" crc="3936596069" ref="my-journey"/>
-    <file name="london.css" crc="295242888" ref="london"/>
+    <file name="photography.css" crc="515569352" ref="photography"/>
+    <file name="berlin.css" crc="295242888" ref="berlin"/>
+    <file name="index.css" crc="224367820" ref="index"/>
     <file name="backpack-europe.css" crc="295242888" ref="backpack-europe"/>
+    <file name="budapest.css" crc="295242888" ref="budapest"/>
+    <file name="the-hidden-bar-experience.css" crc="295242888" ref="the-hidden-bar-experience"/>
+    <file name="budget-tips---tricks.css" crc="3927079064" ref="budget-tips---tricks"/>
+    <file name="unique-things-to-do.css" crc="515569352" ref="unique-things-to-do"/>
+    <file name="london.css" crc="295242888" ref="london"/>
+    <file name="mexico-city.css" crc="295242888" ref="mexico-city"/>
+    <file name="living-in-mexico.css" crc="295242888" ref="living-in-mexico"/>
   </folder>
   <folder name="assets">
     <file name="logo.png" crc="3909184111" seo="true" mt="1522132784000"/>
@@ -40,17 +40,17 @@
   </folder>
   <folder name="images">
     <file name="logo 2-01.png" crc="242783579" seo="true" ref="phone>home:phone>about-me:phone>my-mission:phone>my-journey:phone>photography:phone>vlogging:photography:unique-things-to-do:index:my-journey:budget-tips---tricks">
-      <caption webpage="index" alt=""/>
-      <caption webpage="my-journey" alt=""/>
-      <caption webpage="my-journey" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="photography" alt=""/>
-      <caption webpage="unique-things-to-do" alt=""/>
-      <caption webpage="about-me" alt=""/>
-      <caption webpage="vlogging" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="my-mission" alt=""/>
       <caption webpage="budget-tips---tricks" alt=""/>
+      <caption webpage="unique-things-to-do" alt=""/>
+      <caption webpage="my-mission" alt=""/>
+      <caption webpage="vlogging" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="photography" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="my-journey" alt=""/>
+      <caption webpage="my-journey" alt=""/>
     </file>
     <file name="visualeditor_-_icon_-_menusvg.png" crc="383144915" ref="phone>home">
       <caption webpage="home" alt=""/>
@@ -60,70 +60,70 @@
       <caption webpage="home" alt=""/>
     </file>
     <file name="test.png" crc="203372119" seo="true" ref="phone>home:phone>about-me:phone>my-mission:phone>my-journey:phone>photography:phone>vlogging">
-      <caption webpage="photography" alt=""/>
       <caption webpage="vlogging" alt=""/>
-      <caption webpage="my-journey" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="my-mission" alt=""/>
+      <caption webpage="photography" alt=""/>
       <caption webpage="about-me" alt=""/>
+      <caption webpage="my-mission" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="my-journey" alt=""/>
     </file>
     <file name="artboard 12@2x.png" crc="4276000667" seo="true" ref="phone>home:phone>about-me:phone>my-mission:phone>my-journey:phone>photography:phone>vlogging">
-      <caption webpage="photography" alt=""/>
       <caption webpage="vlogging" alt=""/>
-      <caption webpage="my-journey" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="my-mission" alt=""/>
+      <caption webpage="photography" alt=""/>
       <caption webpage="about-me" alt=""/>
+      <caption webpage="my-mission" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="my-journey" alt=""/>
     </file>
     <file name="artboard 14.png" crc="3911594396" seo="true" ref="phone>home:phone>about-me:phone>my-mission:phone>my-journey:phone>photography:phone>vlogging">
-      <caption webpage="photography" alt=""/>
       <caption webpage="vlogging" alt=""/>
-      <caption webpage="my-journey" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="my-mission" alt=""/>
+      <caption webpage="photography" alt=""/>
       <caption webpage="about-me" alt=""/>
+      <caption webpage="my-mission" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="my-journey" alt=""/>
     </file>
     <file name="artboard 13.png" crc="4247563237" seo="true" ref="phone>home:phone>about-me:phone>my-mission:phone>my-journey:phone>photography:phone>vlogging">
-      <caption webpage="photography" alt=""/>
       <caption webpage="vlogging" alt=""/>
-      <caption webpage="my-journey" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="my-mission" alt=""/>
+      <caption webpage="photography" alt=""/>
       <caption webpage="about-me" alt=""/>
+      <caption webpage="my-mission" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="my-journey" alt=""/>
     </file>
     <file name="logo.png" crc="3909184111" seo="true" ref="photography:unique-things-to-do:my-journey:budget-tips---tricks">
-      <caption webpage="my-journey" alt=""/>
+      <caption webpage="budget-tips---tricks" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="unique-things-to-do" alt=""/>
-      <caption webpage="budget-tips---tricks" alt=""/>
+      <caption webpage="my-journey" alt=""/>
     </file>
     <file name="artboard 580ppi-crop-u26342.png" crc="4021687362" seo="true" ref="photography:unique-things-to-do:my-journey:budget-tips---tricks">
-      <caption webpage="my-journey" alt=""/>
+      <caption webpage="budget-tips---tricks" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="unique-things-to-do" alt=""/>
-      <caption webpage="budget-tips---tricks" alt=""/>
+      <caption webpage="my-journey" alt=""/>
     </file>
     <file name="artboard 680ppi-crop-u26344.png" crc="243303371" seo="true" ref="photography:unique-things-to-do:my-journey:budget-tips---tricks">
-      <caption webpage="my-journey" alt=""/>
+      <caption webpage="budget-tips---tricks" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="unique-things-to-do" alt=""/>
-      <caption webpage="budget-tips---tricks" alt=""/>
+      <caption webpage="my-journey" alt=""/>
     </file>
     <file name="artboard 480ppi.png" crc="277869471" seo="true" ref="photography:unique-things-to-do:index:my-journey:budget-tips---tricks">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="my-journey" alt=""/>
+      <caption webpage="budget-tips---tricks" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="unique-things-to-do" alt=""/>
-      <caption webpage="budget-tips---tricks" alt=""/>
+      <caption webpage="my-journey" alt=""/>
     </file>
     <file name="artboard 3.png" crc="3999821363" seo="true" ref="photography:unique-things-to-do:index:my-journey:budget-tips---tricks">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="my-journey" alt=""/>
+      <caption webpage="budget-tips---tricks" alt=""/>
       <caption webpage="photography" alt=""/>
       <caption webpage="unique-things-to-do" alt=""/>
-      <caption webpage="budget-tips---tricks" alt=""/>
+      <caption webpage="my-journey" alt=""/>
     </file>
     <file name="dsc_0453 copy.jpg" crc="377489287" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -251,38 +251,38 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="465403125" ref="phone>photography:phone>my-journey:phone>my-mission:phone>about-me:phone>vlogging:phone>home"/>
-      <file name="europe-2016.css" crc="62426684" ref="phone>europe-2016"/>
-      <file name="photography.css" crc="142464925" ref="phone>photography"/>
-      <file name="my-journey.css" crc="142464925" ref="phone>my-journey"/>
-      <file name="my-mission.css" crc="142464925" ref="phone>my-mission"/>
-      <file name="about-me.css" crc="142464925" ref="phone>about-me"/>
-      <file name="vlogging.css" crc="142464925" ref="phone>vlogging"/>
-      <file name="home.css" crc="142464925" ref="phone>home"/>
+      <file name="master_a-master.css" crc="465403125" ref="phone>about-me:phone>my-mission:phone>home:phone>photography:phone>vlogging:phone>my-journey"/>
       <file name="untitled-11.css" crc="62426684" ref="phone>untitled-11"/>
+      <file name="about-me.css" crc="142464925" ref="phone>about-me"/>
+      <file name="my-mission.css" crc="142464925" ref="phone>my-mission"/>
+      <file name="home.css" crc="142464925" ref="phone>home"/>
       <file name="index.css" crc="62426684" ref="phone>index"/>
+      <file name="photography.css" crc="142464925" ref="phone>photography"/>
+      <file name="vlogging.css" crc="142464925" ref="phone>vlogging"/>
+      <file name="europe-2016.css" crc="62426684" ref="phone>europe-2016"/>
+      <file name="my-journey.css" crc="142464925" ref="phone>my-journey"/>
     </folder>
-    <file name="index.html" crc="4259959520" seo="true" mt="1522115411088" redirect="false"/>
-    <file name="home.html" crc="522678052" seo="true" mt="1527285142898" redirect="true"/>
-    <file name="about-me.html" crc="4105985768" seo="true" mt="1527285142898" redirect="true"/>
-    <file name="my-mission.html" crc="3784712118" seo="true" mt="1527285142898" redirect="true"/>
-    <file name="my-journey.html" crc="257875928" seo="true" mt="1527285142898" redirect="true"/>
+    <file name="index.html" crc="270966440" seo="true" mt="1522115411088" redirect="false"/>
+    <file name="home.html" crc="413299537" seo="true" mt="1527285142898" redirect="true"/>
+    <file name="about-me.html" crc="4256488826" seo="true" mt="1527285142898" redirect="true"/>
+    <file name="my-mission.html" crc="4118931619" seo="true" mt="1527285142898" redirect="true"/>
+    <file name="my-journey.html" crc="3839412810" seo="true" mt="1527285142898" redirect="true"/>
     <file name="europe-2016.html" crc="4239852653" seo="true" mt="1521995163684" redirect="false"/>
-    <file name="photography.html" crc="3829061349" seo="true" mt="1527285142898" redirect="true"/>
+    <file name="photography.html" crc="402261612" seo="true" mt="1527285142898" redirect="true"/>
     <file name="untitled-11.html" crc="204347627" seo="true" mt="1522011589370" redirect="false"/>
-    <file name="vlogging.html" crc="3906234938" seo="true" mt="1527285142898" redirect="true"/>
+    <file name="vlogging.html" crc="393581710" seo="true" mt="1527285142898" redirect="true"/>
   </folder>
   <file name="backpack-europe.html" crc="27811732" seo="true" mt="1522111156297" redirect="false"/>
-  <file name="photography.html" crc="161830238" seo="true" mt="1522138108718" redirect="true"/>
+  <file name="photography.html" crc="309790985" seo="true" mt="1522138108718" redirect="true"/>
   <file name="living-in-mexico.html" crc="3991220554" seo="true" mt="1522111156297" redirect="false"/>
   <file name="london.html" crc="3961348682" seo="true" mt="1522111156297" redirect="false"/>
   <file name="budapest.html" crc="4098218857" seo="true" mt="1522111156297" redirect="false"/>
   <file name="berlin.html" crc="319228714" seo="true" mt="1522111156297" redirect="false"/>
   <file name="guadalajara.html" crc="369365364" seo="true" mt="1522111156297" redirect="false"/>
   <file name="mexico-city.html" crc="3798390389" seo="true" mt="1522111156297" redirect="false"/>
-  <file name="unique-things-to-do.html" crc="257166221" seo="true" mt="1522138108718" redirect="true"/>
+  <file name="unique-things-to-do.html" crc="3776996816" seo="true" mt="1522138108718" redirect="true"/>
   <file name="the-hidden-bar-experience.html" crc="430724041" seo="true" mt="1522111156297" redirect="false"/>
-  <file name="index.html" crc="3764702657" seo="true" mt="1527285312885" redirect="true"/>
-  <file name="my-journey.html" crc="195836766" seo="true" mt="1522138108718" redirect="true"/>
-  <file name="budget-tips---tricks.html" crc="4167785705" seo="true" mt="1522138108718" redirect="true"/>
+  <file name="index.html" crc="352450314" seo="true" mt="1527285312885" redirect="true"/>
+  <file name="my-journey.html" crc="180779605" seo="true" mt="1522138108718" redirect="true"/>
+  <file name="budget-tips---tricks.html" crc="58411121" seo="true" mt="1522138108718" redirect="true"/>
 </manifest>
